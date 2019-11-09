@@ -14,7 +14,7 @@ It is The People's every day utility token.
 
 It represents:
 * **People's Voice**,
-* **People's sentiment**, and
+* **People's Sentiment**, and
 * **People's Empowerment**.
 
 <br>
